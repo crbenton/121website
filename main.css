@@ -1,6 +1,16 @@
-h2.home {
+.navbar {
     text-align: center;
-}
-ul.home {
-    display: inline;
 } 
+.navbar li {
+    display: inline;
+    margin: 50px;
+}
+body {
+    background-color: tomato;
+}
+.main {
+    background-color: chartreuse;
+    margin-left: 15em;;
+    margin-right: 15em;
+    
+}
