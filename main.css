@@ -6,9 +6,13 @@
     display: inline;
     margin: 50px;
 }
+
 body {
-    background-color:white;
+    background-image: url("IMG_1358.jpg");
+    background-image: no-repeat;
+    background-position: middle top;
 }
+
 .main {
     background-color:white;
     margin-left: 15em;;
@@ -19,4 +23,13 @@ img {
     margin-right: 10px; 
     min-width: 220px; 
     min-height: 150px;
+}
+
+
+cilo1 {
+margin-left: 0;
+}
+
+cilo2 {
+margin-right: 0;
 }
