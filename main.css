@@ -1,35 +1,34 @@
-.navbar {
+.navbar 
+{
     text-align: center;
     margin-top: 3em;
 } 
-.navbar li {
+.navbar li 
+{
     display: inline;
     margin: 50px;
 }
 
-body {
+body 
+{
     background-image: url("IMG_1358.jpg");
     background-image: no-repeat;
-    background-position: middle top;
+    background-position: top left; 
 }
+    
 
-.main {
-    background-color:white;
-    margin-left: 15em;;
+main 
+{
+    background-color: lightblue;
+    margin-left: 15em;
     margin-right: 15em;    
 }
-img {
-    float:left;
+
+img 
+{
+    float: left;
     margin-right: 10px; 
     min-width: 220px; 
     min-height: 150px;
 }
 
-
-cilo1 {
-margin-left: 0;
-}
-
-cilo2 {
-margin-right: 0;
-}
