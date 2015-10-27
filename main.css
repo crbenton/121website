@@ -11,15 +11,15 @@
 
 body 
 {
-    background-image: url("IMG_1358.jpg");
+    /*background-image: url("IMG_1358.jpg");
     background-image: no-repeat;
-    background-position: top left; 
+    background-position: top left; */
 }
     
 
 main 
 {
-    background-color: lightblue;
+    background-color: ;
     margin-left: 15em;
     margin-right: 15em;    
 }
