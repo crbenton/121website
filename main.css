@@ -1,25 +1,45 @@
 .navbar 
 {
     text-align: center;
-    margin-top: 3em;
+    overflow: hidden;
+    margin-left: 15em;
+    margin-right: 15em;
 } 
 .navbar li 
 {
-    display: inline;
-    margin: 50px;
+    float: left;
+}
+
+.navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
 }
 
 body 
 {
-    /*background-image: url("IMG_1358.jpg");
-    background-image: no-repeat;
-    background-position: top left; */
-}
     
+}
 
-main 
-{
+a:link, a:visited {
+    display: block;
+    width: 100px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #004983;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 5em;
+}
+
+a:hover, a:active {
     background-color: ;
+}
+
+.main 
+{
     margin-left: 15em;
     margin-right: 15em;    
 }
@@ -27,7 +47,7 @@ main
 img 
 {
     float: left;
-    margin-right: 10px; 
+    margin-right: 100px;
     min-width: 220px; 
     min-height: 150px;
 }
