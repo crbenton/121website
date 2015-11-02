@@ -7,7 +7,8 @@
 } 
 .navbar li 
 {
-    float: left;
+    float: left; 
+    
 }
 
 .navbar ul {
@@ -18,8 +19,11 @@
 
 body 
 {
-    
+    background-image: url(IMG_1358.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
+
 
 a:link, a:visited {
     display: block;
