@@ -15,13 +15,14 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    display: inline-block;
 }
 
 body 
 {
-    background-image: url(IMG_1358.jpg);
+    background-image: url(photos/IMG_1350_opacity.6);
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 
@@ -56,3 +57,12 @@ img
     min-height: 150px;
 }
 
+hr {
+    margin-left: 15em;
+    margin-right: 15em;
+    color: chartreuse;
+}
+
+h2 {
+    color: purple;
+}
