@@ -46,7 +46,11 @@ a:hover, a:active {
 .main 
 {
     margin-left: 15em;
-    margin-right: 15em;    
+    margin-right: 15em;
+    background-color: white;
+    opacity: .8;
+    border: 1px chartreuse solid;
+    padding: 1em;
 }
 
 img 
@@ -60,7 +64,7 @@ img
 hr {
     margin-left: 15em;
     margin-right: 15em;
-    color: chartreuse;
+    color: #004983;
 }
 
 h2 {
