@@ -11,6 +11,12 @@
     
 }
 
+.main{
+ 
+    
+}
+
+
 .navbar ul {
     margin: 0;
     padding: 0;
@@ -70,3 +76,15 @@ hr {
 h2 {
     color: purple;
 }
+
+#vid{
+    margin: auto; 
+    max-width: 420px; 
+}
+
+
+
+
+
+
+
