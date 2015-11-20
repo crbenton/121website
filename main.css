@@ -56,9 +56,7 @@ a:hover, a:active {
 img 
 {
     float: left;
-    margin-right: 100px;
-    min-width: 220px; 
-    min-height: 150px;
+    clear:both; 
 }
 
 hr {
@@ -68,5 +66,14 @@ hr {
 }
 
 h2 {
-    color: purple;
+    color: fuchsia;
+}
+
+ 
+#next{
+   float: left; 
+    clear: left; 
+}
+#clear{
+    clear: both;
 }
