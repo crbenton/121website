@@ -11,6 +11,12 @@
     
 }
 
+.main{
+ 
+    
+}
+
+
 .navbar ul {
     margin: 0;
     padding: 0;
@@ -66,6 +72,7 @@ hr {
 }
 
 h2 {
+<<<<<<< HEAD
     color: fuchsia;
 }
 
@@ -77,3 +84,19 @@ h2 {
 #clear{
     clear: both;
 }
+=======
+    color: purple;
+}
+
+#vid{
+    margin: auto; 
+    max-width: 420px; 
+}
+
+
+
+
+
+
+
+>>>>>>> 91f3e693b431f66a92a92d2a5eb7feee7f26c840
