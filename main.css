@@ -8,7 +8,6 @@
 .navbar li 
 {
     float: left; 
-    
 }
 
 .navbar ul {
@@ -67,7 +66,9 @@ hr {
 }
 
 h2 {
-    color: purple;
+    color: black;
+    font-size: 32px;
+    font-family: serif;
 }
 
  
@@ -75,6 +76,7 @@ h2 {
    float: left; 
     clear: left; 
 }
+
 #clear{
     clear: both;
 }
