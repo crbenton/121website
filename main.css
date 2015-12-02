@@ -11,12 +11,6 @@
     
 }
 
-.main{
- 
-    
-}
-
-
 .navbar ul {
     margin: 0;
     padding: 0;
@@ -29,6 +23,7 @@ body
     background-image: url(photos/IMG_1350_opacity.6);
     background-size: 100%;
     background-repeat: repeat;
+    font-family: sans-serif;
 }
 
 
@@ -72,8 +67,7 @@ hr {
 }
 
 h2 {
-<<<<<<< HEAD
-    color: fuchsia;
+    color: purple;
 }
 
  
@@ -84,19 +78,9 @@ h2 {
 #clear{
     clear: both;
 }
-=======
-    color: purple;
-}
 
 #vid{
     margin: auto; 
-    max-width: 420px; 
+    max-width: 420px;
+    
 }
-
-
-
-
-
-
-
->>>>>>> 91f3e693b431f66a92a92d2a5eb7feee7f26c840
